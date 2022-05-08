@@ -102,7 +102,7 @@ QR Code generator and full instructions available there.
 											<tr>
 												<td><a href="httsp://github.com/sadiyamin/"><img src="https://i.ibb.co/k1WBFWM/sadeesha-jpg.png" width="200" height="200" alt="Sadeesha"></a></td>
 												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://ibb.co/h15VRT6/2-Sasmitha.jpg" width="200" height="200" alt="Sahan"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://ibb.co/h15VRT6" width="200" height="200" alt="Sanithu"></a></td>
+												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="<img src="https://i.ibb.co/zVz0fzF/IMG-20220508-WA0020.jpg" alt="IMG-20220508-WA0020" border="0">" width="200" height="200" alt="Sanithu"></a></td>
 											</tr>
 										</tbody>
 									</table>
