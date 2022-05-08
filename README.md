@@ -101,8 +101,8 @@ QR Code generator and full instructions available there.
 										<tbody>
 											<tr>
 												<td><a href="httsp://github.com/sadiyamin/"><h5>Developer <br>Sadeesha</h5></br><img src="https://i.ibb.co/k1WBFWM/sadeesha-jpg.png" width="200" height="200" alt="Sadeesha"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://i.ibb.co/2hcrMWh/sahan.jpg" width="200" height="200" alt="Sahan"></a></td>
-												<td><a href="https://www.instagram.com/"><img src="https://i.ibb.co/zVz0fzF/sanithu.jpg" width="200" height="200" alt="Sanithu"></a></td>
+												<td><a href="https://www.instagram.com/sinhalaya_official_/"><h5>Co-Admin<br>Sahan</h5></br><img src="https://i.ibb.co/2hcrMWh/sahan.jpg" width="200" height="200" alt="Sahan"></a></td>
+												<td><a href="https://www.instagram.com/"><h5>Co-Admin<br>sanithu</h5></br><img src="https://i.ibb.co/zVz0fzF/sanithu.jpg" width="200" height="200" alt="Sanithu"></a></td>
 											</tr>
 										</tbody>
 									</table>
