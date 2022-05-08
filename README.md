@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/nghKwry/main.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/nghKwry/main.jpg" width="700" height="700">
   <h1>👸💎 ALPHA QUEEN BOT 💎👸</h1>
 </div>
 <p align="center">
