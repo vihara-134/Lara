@@ -13,7 +13,7 @@
 ----
 <div align="center">
 	<h1>Visit our official website to install the Whatsapp Bot (With button update) :</h1>
-	<a href="https://www.amdaniwasa.com">
+	<a href="">
 <img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
 </div>
 
@@ -27,51 +27,51 @@
 ----
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/docker/image-size/sadiyamin/Lara-MD?style=flat-square&logo=github&label=Image Size">
     
   </a>
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/sadiyamin/Lara-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsadiyamin%2FLara-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
+  <a href="https://github.com/sadiyamin/Lara-MD/fork">
+    <img src="https://img.shields.io/github/forks/sadiyamin/Lara-MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
+  <a href="https://github.com/sadiyamin/Lara-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/sadiyamin/Lara-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/github/repo-size/sadiyamin/Lara-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/github/license/sadiyamin/Lara-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/github/languages/top/sadiyamin/Lara-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
+  <a href="https://wa.me/94779062397">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Lara%20Amdi%20MD-purple&style=plastic">
 
   </a>
 </p>
