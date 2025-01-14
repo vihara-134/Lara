@@ -9,7 +9,7 @@ const {
   Json,
   sleep,
   fetchJson
-} = require("../lib/functions");
+} = require("../functions");
 
 
 const command = {
