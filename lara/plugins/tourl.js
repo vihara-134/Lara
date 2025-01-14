@@ -1,3 +1,4 @@
+const { cmd, commands } = require('../command');
 const img2UrlCommand = {
   pattern: "img2url",
   react: "🔗",
