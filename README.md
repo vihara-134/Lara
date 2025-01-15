@@ -31,23 +31,23 @@
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 </div>
 <br>
 
 *🌸 Now get your inbox and copy sessino id*
 
-*🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
+*🌸 If you past session id in (settings.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
+<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -142,44 +142,6 @@ jobs:
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
 <hr>
 
-**🌸 FREE DEPLOY WORKFLOWS**
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
-
 <h5>🌸 TOTAL WEB VIEWS</h5>
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
@@ -188,10 +150,9 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
-| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
-|---------------------|---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
-| DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
+| SADEESHA 👤              | VIHANGA 👤              |
+|---------------------|---------------------|
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/) |
 </div>
 <hr>
 
