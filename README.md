@@ -1,3 +1,4 @@
+
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
@@ -31,11 +32,11 @@
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://webpair-mega-jxq2.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-jx81.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://webpair-mega-jxq2.onrender.com">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 </div>
 <br>
 
